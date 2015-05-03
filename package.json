@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "compare performance results from junit-xml-parser output json",
   "files": [
+    "lib",
     "tasks"
   ],
   "repository": "http://github.com/Malkiz/grunt-performance-comparer",
